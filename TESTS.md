@@ -206,3 +206,8 @@ or inside the modules that it depends on (like markdown).
 After such changes, just run this command *2 times*, and commit the
 resulting changes in `cmd/tools/vdoc/testdata` as well:
 `VAUTOFIX=1 ./v cmd/tools/vdoc/vdoc_file_test.v`
+
+
+# Adding contributions for hands on purpose.
+
+print('Hello World!')
